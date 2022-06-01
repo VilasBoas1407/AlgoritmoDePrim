@@ -1,0 +1,14 @@
+D:\Projetos\AlgoritmoDePrim\bin\Debug\netcoreapp3.1\AlgoritmoDePrim.exe
+D:\Projetos\AlgoritmoDePrim\bin\Debug\netcoreapp3.1\AlgoritmoDePrim.deps.json
+D:\Projetos\AlgoritmoDePrim\bin\Debug\netcoreapp3.1\AlgoritmoDePrim.runtimeconfig.json
+D:\Projetos\AlgoritmoDePrim\bin\Debug\netcoreapp3.1\AlgoritmoDePrim.runtimeconfig.dev.json
+D:\Projetos\AlgoritmoDePrim\bin\Debug\netcoreapp3.1\AlgoritmoDePrim.dll
+D:\Projetos\AlgoritmoDePrim\bin\Debug\netcoreapp3.1\AlgoritmoDePrim.pdb
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.csproj.AssemblyReference.cache
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.AssemblyInfoInputs.cache
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.AssemblyInfo.cs
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.csproj.CoreCompileInputs.cache
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.dll
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.pdb
+D:\Projetos\AlgoritmoDePrim\obj\Debug\netcoreapp3.1\AlgoritmoDePrim.genruntimeconfig.cache
